@@ -1,6 +1,6 @@
 # Hey! I'm Jay, a data-hungry data scientist 👀
 
-I'm currently working on [**vinDAR**](https://github.com/vinDAR-MEDS), a project that maps missing vines in French vineyards using LiDAR data to assess climate and disease. I'm learning database schemas, SQL, ML pipelines with scikit-learn, and—don't tell anyone—crocheting a baby blanket.
+I'm currently working on [**vinDAR**](https://github.com/vinDAR-MEDS), a project that maps missing vines in French vineyards using LiDAR data to assess climate and disease. I'm learning database schemas, SQL, ML pipelines with scikit-learn, and (don't tell anyone) learning to crochet a blanket.
 
 I love collaborating on **open-source geospatial and climate tech**, especially involving LiDAR, vineyards, or agricultural data. Looking for help with advanced geospatial analysis and scaling ML workflows.
 
